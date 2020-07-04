@@ -13,4 +13,3 @@ class MaxProdOfIndxOfNextGrtOnLftAndRgt{
 		
 	}
 }
-\\ram ram ram
